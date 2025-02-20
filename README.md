@@ -38,9 +38,9 @@ python linkedin_job_apply.py
 When prompted, solve the CAPTCHA and press Enter.
 
 ## Future Enhancements
-- Auto CAPTCHA Solver 🛑
-- Custom Keywords & Filters 🔍
-- Track Applied Jobs 📊
+- Auto CAPTCHA Solver 
+- Custom Keywords & Filters 
+- Track Applied Jobs 
 
 💼 Apply to jobs faster and smarter with automation
 
