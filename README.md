@@ -2,11 +2,11 @@
 A Python bot that automatically applies to LinkedIn job postings using Selenium.
 
 ## Features
-✔ Automates Job Applications – Applies to LinkedIn jobs in a single click.
-✔ Handles CAPTCHA – Pause for manual solving when needed.
-✔ Phone Autofill – Adds phone number if required.
-✔ Secure Login – Uses .env for credentials.
-✔ Error Handling – Skips jobs if elements are missing.
+- Automates Job Applications – Applies to LinkedIn jobs in a single click.
+- Handles CAPTCHA – Pause for manual solving when needed.
+- Phone Autofill – Adds phone number if required.
+- Secure Login – Uses .env for credentials.
+- Error Handling – Skips jobs if elements are missing.
 
 ## Tech-Stack
 - Python – Core programming language
