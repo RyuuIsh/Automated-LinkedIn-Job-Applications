@@ -32,7 +32,7 @@ PHONE_NUMBER=your_phone_number
 ```
 ### Run the script
 ```
-python linkedin_job_apply.py
+python main.py
 ```
 ### Solve CAPTCHA
 When prompted, solve the CAPTCHA and press Enter.
