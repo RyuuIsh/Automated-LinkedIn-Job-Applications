@@ -35,7 +35,9 @@ PHONE_NUMBER=your_phone_number
 python main.py
 ```
 ### Solve CAPTCHA
+
 When prompted, solve the CAPTCHA and press Enter.
+
 
 ## Future Enhancements
 - Auto CAPTCHA Solver 
